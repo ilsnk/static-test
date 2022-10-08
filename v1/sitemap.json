@@ -1,18 +1,20 @@
-[
-  {
-    "path": "/city.jpg",
-    "size": 3459455
-  },
-  {
-    "path": "/mountains.jpg",
-    "size": 2157639
-  },
-  {
-    "path": "/pexels-sam-kolder-2387873.jpg",
-    "size": 3866456
-  },
-  {
-    "path": "/waterfall.jpg",
-    "size": 4278651
-  }
-]
+{
+  "Content": [
+    {
+      "path": "/city.jpg",
+      "size": 3459455
+    },
+    {
+      "path": "/mountains.jpg",
+      "size": 2157639
+    },
+    {
+      "path": "/pexels-sam-kolder-2387873.jpg",
+      "size": 3866456
+    },
+    {
+      "path": "/waterfall.jpg",
+      "size": 4278651
+    }
+  ]
+}
